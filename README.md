@@ -30,3 +30,60 @@ This project is divided into two parts:-
   * Used flipkart site to show the reviews of products.
   * Used Vehicle  dataset from cardekho Kaggle.
   * Used Heroku platform to make this app public.
+## Installation
+The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries, run this command in the project directory after [clonning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/ "cloning") the repository.
+`pip install -r requirements.txt`
+## Run
+### Step1.
+To run this on local machine, click on `run` button in `flask_app.py` file.
+### Step2.
+Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your browser and hit enter.
+## Deployement on Heroku
+### Step1.
+Maintain necessary files like `requirements.txt, Procfile` . **Givent in the project directory check there.**
+### Step2. 
+This step would be to follow the instructions given on [Heroku Documnetation](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment "Heroku Documnetation") to deploy a web app.
+## Directory Tree
+```
+|--static/css
+| |--css
+| | |--all.css
+| | |--all.min.css
+| |--webfonts
+| | |--fa-brands-400.lot
+| | |--fa-brands-400.svg
+| |--main.css
+|--templates
+| |--index.html
+|--app.py
+|--car data.csv
+|--Car data_model.ipynp
+|--Procfile
+|--README.md
+|--requirements.txt
+|--rf_model.pkl
+```
+## To Do
+1. Improve the model accuracy by increase the data size and apply some advance machine learning techniques.
+2. Add better UI and animations.
+## Technologies Used
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
+![Heroku](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
