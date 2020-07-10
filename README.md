@@ -68,22 +68,9 @@ This step would be to follow the instructions given on [Heroku Documnetation](ht
 2. Add better UI and animations.
 ## Technologies Used
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Heroku](https://cdn.technologyadvice.com/wp-content/uploads/2019/09/Heroku-Logo-01-300x300.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Team
+| ![Rohit](https://avatars1.githubusercontent.com/u/35064155?s=60&v=4) |
+| -------------------------------------------------------------------- |
+| [Rohit Sharma](https://github.com/rs301378/)
+## Credits
+All the creadits of this project goes to [Krish Niak](https://github.com/krishnaik06 "Krish Niak"). :heart:
