@@ -5,7 +5,7 @@
 * Technical Aspect
 * Installation
 * Run
-* Deployement on Pivotal
+* Deployement on Heroku
 * Directory Tree
 * To Do
 * Technologies Used
@@ -28,7 +28,6 @@ This project is divided into two parts:-
 
   * A user can fill all the fields that are given.
   * Click on `Calculate the Selling Price` button. It will show the selling price below that `Calculate the Selling Price` button.
-  * Used flipkart site to show the reviews of products.
   * Used Vehicle  dataset from cardekho Kaggle.
   * Used Heroku platform to make this app public.
 ## Installation
