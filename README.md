@@ -67,7 +67,7 @@ This step would be to follow the instructions given on [Heroku Documnetation](ht
 1. Improve the model accuracy by increase the data size and apply some advance machine learning techniques.
 2. Add better UI and animations.
 ## Technologies Used
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Heroku](ttps://miro.medium.com/max/3600/1*fIjRtO5P8zc3pjs0E5hYkw.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Heroku](https://miro.medium.com/max/3600/1*fIjRtO5P8zc3pjs0E5hYkw.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
 
 
 
