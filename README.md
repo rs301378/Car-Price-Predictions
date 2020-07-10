@@ -37,12 +37,12 @@ The code is written in `Python 3.6`. If you don't have Python installed you can 
 ### Step1.
 To run this on local machine, click on `run` button in `flask_app.py` file.
 ### Step2.
-Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your browser and hit enter.
+Copy the link for e.g. `http://127.0.0.1:5000/` and past it on your browser and hit enter.
 ## Deployement on Heroku
 ### Step1.
 Maintain necessary files like `requirements.txt, Procfile` . **Givent in the project directory check there.**
 ### Step2. 
-This step would be to follow the instructions given on [Heroku Documnetation](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment "Heroku Documnetation") to deploy a web app.
+This step would be to follow the instructions given on [Heroku Documnetation](https://devcenter.heroku.com/categories/deployment "Heroku Documnetation") to deploy a web app.
 ## Directory Tree
 ```
 |--static/css
@@ -67,8 +67,8 @@ This step would be to follow the instructions given on [Heroku Documnetation](ht
 1. Improve the model accuracy by increase the data size and apply some advance machine learning techniques.
 2. Add better UI and animations.
 ## Technologies Used
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
-![Heroku](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  ![Heroku](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)  
+
 
 
 
