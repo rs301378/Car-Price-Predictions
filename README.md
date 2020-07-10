@@ -5,7 +5,7 @@
 * Technical Aspect
 * Installation
 * Run
-* Deployement on Heroku
+* Deployment on Heroku
 * Directory Tree
 * To Do
 * Technologies Used
