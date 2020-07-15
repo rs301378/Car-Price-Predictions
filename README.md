@@ -1,6 +1,6 @@
 # Car-Price-Predictions
 
-![Python](https://img.shields.io/badge/Python-3.6-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.6-%20%23ffcc00)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-%23000)
 ![Deployment](https://img.shields.io/badge/Deployment-Heroku-%20%236600ff)
