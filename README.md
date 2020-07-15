@@ -1,4 +1,9 @@
 # Car-Price-Predictions
+
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-%23000)
+
 ## Table of Content
 * Demo
 * Overview
