@@ -8,6 +8,7 @@ import requests
 import pickle
 import numpy as np
 import sklearn
+import os
 from sklearn.preprocessing import StandardScaler
 import warnings
 warnings.filterwarnings("ignore")
@@ -61,5 +62,6 @@ def predict():
         return render_template('index.html')
 
 if __name__=="__main__":
+    port = int(os.environ.get("PORT", 8000))
     app.run(debug=True)
 
